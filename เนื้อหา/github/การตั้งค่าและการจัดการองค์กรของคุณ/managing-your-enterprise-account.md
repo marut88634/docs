@@ -1,4 +1,4 @@
----
+{% data reusables.gated-features.enterprise-accounts%---
 title: Managing your enterprise account
 product: '{% data reusables.gated-features.enterprise-accounts %}'
 mapTopic: true
